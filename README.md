@@ -1,6 +1,14 @@
 # 🏥Dados de Saúde Pública no Brasil 📊
 
-Este repositório contém um script em Python para coletar dados de saúde pública de diversas unidades federativas do Brasil através do site do DATASUS. Os dados são baixados e organizados em arquivos CSV para análises posteriores. O script utiliza a biblioteca Selenium para automatizar a extração dos dados.
+<p align="center">
+  <img src="https://github.com/EvelynLopesSS/Crawler_DataSUS/assets/113462824/73b566fa-a0d8-44e4-bd1f-cf607a678145" width="200">
+</p>
+<p align="center"
+<a href="https://datasus.saude.gov.br/informacoes-de-saude-tabnet/">
+  <img src="https://img.shields.io/badge/Acesse os Dados no DATASUS-4CAF50.svg" />
+</a>
+</p>
+Este repositório contém um script em Python para coletar dados de saúde pública de diversas unidades federativas do Brasil através do site do DATASUS (tabnet). Os dados são baixados e organizados em arquivos CSV para análises posteriores. O script utiliza a biblioteca Selenium para automatizar a extração dos dados.
 
 ## 💡Como funciona
 
